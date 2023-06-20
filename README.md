@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-dhote-117568213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaskar-badgurjar" height="30" width="40" /></a>
-<a href="https://instagram.com/imbhaskar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imbhaskar__" height="30" width="40" /></a>
+<a href="https://instagram.com/mohit_.404__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_.404" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
