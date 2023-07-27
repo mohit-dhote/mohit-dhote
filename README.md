@@ -2,6 +2,12 @@
 <h3 align="center">A Aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo1LHbBU_8bSMfRZPSIBrzv-TJdG8FFWrSw&usqp=CAU">
 
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate with **people so that I can enhance my skills**
+
+- 💬 Ask me about **Open Source, Data Structures, Java**
+
 - 📫 How to reach me **mohitdhote465@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
