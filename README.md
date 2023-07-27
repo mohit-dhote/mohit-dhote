@@ -2,7 +2,7 @@
 
 
 <!-- <h1 align="center">Hi I'm Mohit</h1> -->
-<h3 align="center">A Aspiring Data Analyst from India</h3>
+<h3 align="center">A Aspiring Data Enginner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo1LHbBU_8bSMfRZPSIBrzv-TJdG8FFWrSw&usqp=CAU">
 
 - 🌱 I’m currently learning **Machine Learning**
