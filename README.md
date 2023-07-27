@@ -1,7 +1,7 @@
 # Hi-I'm_Mohit![Gif](https://github.com/tuhinaww/Animating-Buttons/assets/119059108/55243a1c-ef56-4e37-86ef-48f2b1036c76)
 
 
-<h1 align="center">Hi[Gif](https://github.com/tuhinaww/Animating-Buttons/assets/119059108/55243a1c-ef56-4e37-86ef-48f2b1036c76)I'm Mohit</h1>
+<h1 align="center">Hi I'm Mohit</h1>
 <h3 align="center">A Aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo1LHbBU_8bSMfRZPSIBrzv-TJdG8FFWrSw&usqp=CAU">
 
