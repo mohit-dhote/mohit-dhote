@@ -26,6 +26,10 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&" alt="mohit-dhote" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&show_icons=true&locale=en&layout=compact" alt="mohit-dhote" />
   -->
+
+  ![](https://raw.githubusercontent.com/mohit-dhote/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mohit-dhote/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <a href="https://github.com/mohit-dhote/github-stats">
 <img src="https://github.com/mohit-dhote/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/mohit-dhote/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></a> <!--</p> -->
+<img src="https://github.com/mohit-dhote/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></a> </p> 
