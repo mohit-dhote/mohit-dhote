@@ -24,7 +24,7 @@
 
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&" alt="mohit-dhote" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&show_icons=true&locale=en&layout=compact" alt="mohit-dhote" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&show_icons=true&locale=en&layout=compact" alt="mohit-dhote" /></p>
   
 
 <!--
