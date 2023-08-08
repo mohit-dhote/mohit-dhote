@@ -1,19 +1,22 @@
+<!-- ![Header](./lidin.png) -->
 # <h1 align="center">Hi![Gif](https://github.com/tuhinaww/Animating-Buttons/assets/119059108/55243a1c-ef56-4e37-86ef-48f2b1036c76)I'm Mohit</h1>
 
 
 <!-- <h1 align="center">Hi I'm Mohit</h1> -->
 <h3 align="center">A Aspiring Data Enginner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo1LHbBU_8bSMfRZPSIBrzv-TJdG8FFWrSw&usqp=CAU">
+<!-- <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFo1LHbBU_8bSMfRZPSIBrzv-TJdG8FFWrSw&usqp=CAU"> -->
 
-- 🌱 I’m currently learning **Machine Learning**
+ ## 🌐 About Me
 
-- 👯 I’m looking to collaborate with **people so that I can enhance my skills**
+🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Open Source, Data Structures, Java**
+🤝 I’m looking to collaborate with **people so that I can enhance my skills**
 
-- 📫 How to reach me **mohitdhote465@gmail.com**
+💬 Ask me about **Open Source, Data Structures, Java**
 
-<h3 align="left">Connect with me:</h3>
+📫 How to reach me **mohitdhote465@gmail.com**
+
+## Connect With Me <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="30px"/>:
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-dhote-117568213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-dhote" height="30" width="40" /></a>
 <a href="https://instagram.com/mohit_.404__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_.404" height="30" width="40" /></a>
@@ -31,7 +34,9 @@
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&layout=compact&theme=radical"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical"/></td></tr></table>
 
+###
 
+<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
 <!--
 <a href="https://github.com/mohit-dhote/github-stats">
 <img src="https://github.com/mohit-dhote/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
