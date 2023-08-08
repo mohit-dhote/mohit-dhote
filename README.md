@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&show_icons=true&locale=en&layout=compact" alt="mohit-dhote" /></p>  -->
   
 
-![My stats](https://github-readme-stats.vercel.app/api?username=mohit-dhote&show_icons=true&include_all_commits=true&theme=radical)
+![My stats](https://github-readme-stats.vercel.app/api?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=false&theme=radical)
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&layout=compact&theme=radical"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical"/></td></tr></table>
 
@@ -36,6 +36,7 @@
 <a href="https://github.com/mohit-dhote/github-stats">
 <img src="https://github.com/mohit-dhote/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/mohit-dhote/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" /></a> </p> 
+![](https://github-readme-stats.vercel.app/api?username=mohit-dhote&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <!--
 ![](https://raw.githubusercontent.com/mohit-dhote/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mohit-dhote/github-stats/master/generated/overview.svg#gh-light-mode-only)
