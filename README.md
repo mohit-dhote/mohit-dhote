@@ -36,10 +36,11 @@
 ![My stats](https://github-readme-stats.vercel.app/api?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=false&theme=radical)
 
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&layout=compact&theme=radical"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical"/></td></tr></table>
+<h2>Thanks For Visiting!  </h2>
 
+<!--
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
 <!--
 <a href="https://github.com/mohit-dhote/github-stats">
 <img src="https://github.com/mohit-dhote/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
@@ -50,3 +51,4 @@
 ![](https://raw.githubusercontent.com/mohit-dhote/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 -->
+
