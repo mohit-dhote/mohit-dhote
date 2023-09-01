@@ -65,9 +65,34 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&show_icons=true&locale=en&layout=compact" alt="mohit-dhote" /></p>  -->
   
 
-![My stats](https://github-readme-stats.vercel.app/api?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=false&theme=radical)
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=false&theme=radical" width="400" height="250">
 
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&layout=compact&theme=radical"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical"/></td></tr></table>
+
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&layout=compact&theme=radical"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical"/></td></tr></table> -->
+
+<h2 align="left"> 💻 GitHub Stats :</h2>
+<br>
+<div style="display: flex; flex-direction: row;">
+<a href="#">
+<img align="left" alt="Mohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=false&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px">
+</a>
+<a href="#">
+    <img alt="Mohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" >
+  </a>
+</div>
+
+
+
+<h2 align="left">🏆 GitHub Trophies :</h2>
+<br>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohit-dhote&theme=onedark" alt="mohit-dhote" />
+  </a> 
+</p>
+
+
 <h2>Thanks For Visiting!  </h2>
 
 <!--
