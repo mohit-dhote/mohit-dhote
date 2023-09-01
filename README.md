@@ -75,12 +75,12 @@
 <br>
 <div style="display: flex; flex-direction: row;">
 <a href="#">
-<img align="left" alt="Mohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=false&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px">
+<img align="left" alt="Mohit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=false&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="300px">
 </a>
 
 <div style="text-align: right;">
 <a href="#">
-    <img alt="Mohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px >
+    <img alt="Mohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" >
   </a>
 </div>
 
