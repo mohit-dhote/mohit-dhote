@@ -80,7 +80,7 @@
 
 <div style="text-align: right;">
 <a href="#">
-    <img alt="Mohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" >
+    <img alt="Mohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px >
   </a>
 </div>
 
