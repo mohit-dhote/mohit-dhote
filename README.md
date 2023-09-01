@@ -1,5 +1,5 @@
 <!-- ![Header](./lidin.png) -->
-# <h1 align="center">Hi![Gif](https://github.com/tuhinaww/Animating-Buttons/assets/119059108/55243a1c-ef56-4e37-86ef-48f2b1036c76)I'm Mohit</h1>
+# <h1 align="center">Hi I'm Mohit</h1>
 <!--
 ![Colorful Watercolor Twitter Header (3)](https://github.com/Not-Sarthak/Not-Sarthak/assets/92942966/ce7b428a-8edd-43fd-b654-aa78bfb91150)
 <br> -->
