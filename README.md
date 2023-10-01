@@ -95,7 +95,7 @@
 </p>
 
 
-<h2>Thanks For Visiting!  </h2>
+## <h2>Thanks For Visiting!  </h2>
 
 <!--
 ###
