@@ -94,6 +94,9 @@
   </a> 
 </p>
 
+### 🔖 Holopins:
+  
+[![An image of @mohitdhote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitdhote)](https://holopin.io/@mohitdhote)
 
 ## <h2>Thanks For Visiting!  </h2>
 
