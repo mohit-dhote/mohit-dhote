@@ -2,7 +2,7 @@
 <br>
 <div>
   <a align="left">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width ="50"> <img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e05d44&size=20&lines=Hi+there!+Its+Mohit+here!;I'm+an+Aspiring+Data+Scientist,;and+a+Data+Engineer;I'm+also+studying+and+22+year+old" /> 
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width ="50"> <img align="center" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=e05d44&size=20&lines=Hi+there!+Its+Mohit+here!;I'm+an+Aspiring+Full+Stack+Java+Developer;I'm+also+studying+and+22+year+old" /> 
   </a>
     <img align="right" alt="GIF" src="https://i.imgur.com/hNycLOY.png" alt="My Avatar" height="300">
 </div>
@@ -25,7 +25,7 @@
  <!--###
 <img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  /> -->
 ## 🌐 About Me
--🌱 I’m currently learning **Machine Learning**
+-🌱 I’m currently learning **Spring boot**
 
 -🤝 I’m looking to collaborate with **people so that I can enhance my skills**
 
