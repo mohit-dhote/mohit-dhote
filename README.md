@@ -112,7 +112,7 @@
 <!-- ends here -->
 
 <!--
- workingg
+ working but seperate
 <table>
   <tr>
     <td>
@@ -136,7 +136,7 @@
 </div> -->
 
 
---
+<!-- stats all three in row
 
 <h2 align="left"> 💻 GitHub Stats :</h2>
 
@@ -153,9 +153,21 @@
     </td>
   </tr>
 </table>
+ -->
 
 
---
+<h2 align="left"> 💻 GitHub Stats :</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="170px" width="400px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" height="170px" width="400px"/>
+    </td>
+  </tr>
+</table>
 
 
 <!-- Holopins -->
