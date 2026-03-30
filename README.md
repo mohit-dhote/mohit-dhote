@@ -96,6 +96,21 @@
 
 </p>
 
+<!--  GitHub Stats -->
+
+<h2 align="left"> 💻 GitHub Stats :</h2>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="170px" width="400px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" height="170px" width="400px"/>
+    </td>
+  </tr>
+</table>
+
 
 <!-- My Contribution Graph -->
 
@@ -111,6 +126,8 @@
 </picture>   
 <!-- ends here -->
 
+
+<!-- github stats -->
 <!--
  working but seperate
 <table>
@@ -136,38 +153,6 @@
 </div> -->
 
 
-<!-- stats all three in row
-
-<h2 align="left"> 💻 GitHub Stats :</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&langs_count=8&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=false&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="170px" width="270px"/>
-    </td>
-    <td>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="170px" width="270px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" height="170px" width="270px"/>
-    </td>
-  </tr>
-</table>
- -->
-
-
-<h2 align="left"> 💻 GitHub Stats :</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="170px" width="400px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" height="170px" width="400px"/>
-    </td>
-  </tr>
-</table>
 
 
 <!-- Holopins -->
@@ -179,15 +164,6 @@
 
 
 ## <h2>Thanks For Visiting! </h2>
-
-
-## 💡 Support My Journey
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/mohit-dhote">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&animation=pulse" alt="Support Me"/>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
