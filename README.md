@@ -1,4 +1,3 @@
-<!-- ![Header](./lidin.png) -->
 <br>
 <div>
   <a align="left">
@@ -17,6 +16,7 @@
   <!-- coding gif 
  <img align="right" height="150" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/> -->
 
+<!-- About Me -->
 ## 🌐 About Me
 
 - ⚡ Data Engineer — I build pipelines, not excuses
@@ -34,6 +34,7 @@
 </p>
 
 
+<!--Languages & Tools -->
 <h2 align="left">🛠️ Languages & Tools</h2>
 
 <p align="left">
@@ -96,12 +97,7 @@
 </p>
 
 
-<!--
-## 📊 My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="35">
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake"> </p>  -->
-
---
+<!-- My Contribution Graph -->
 
 <h2 align="left">📊 My Contribution Graph</h2>
 
@@ -113,11 +109,17 @@
   <img alt="github-snake"
     src="https://raw.githubusercontent.com/mohit-dhote/mohit-dhote/output/github-contribution-grid-snake.svg" />
 </picture>   
+<!-- ends here -->
 
-
-----
-
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&layout=compact&theme=radical"/></td><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical"/></td></tr></table> -->
+<!--
+ workingg
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" width="350"/>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="left"> 💻 GitHub Stats :</h2>
@@ -131,32 +133,36 @@
 <a href="#">
     <img alt="Mohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" >
   </a>
+</div> -->
+
+
+--
+
+<h2 align="left"> 💻 GitHub Stats :</h2>
+
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&langs_count=8&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=false&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="300px"/>
+
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" height="192px" width="350"/>
+
 </div>
 
 
+--
 
+
+<!-- Holopins -->
 
 ### 🔖 Holopins:
   
 [![An image of @mohitdhote's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitdhote)](https://holopin.io/@mohitdhote)
 
-<!--
-
-## 🏆 Contribution Graph
-
-<div align="center">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Graph
-![Snake](https://raw.githubusercontent.com/hasanRafi2002/hasanRafi2002/output/dist/github-snake.svg)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
--->
 
 
-
-## <h2>Thanks For Visiting!  </h2>
+## <h2>Thanks For Visiting! </h2>
 
 
 ## 💡 Support My Journey
