@@ -140,15 +140,19 @@
 
 <h2 align="left"> 💻 GitHub Stats :</h2>
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&langs_count=8&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=false&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="300px"/>
-
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" height="192px" width="350"/>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhote&langs_count=8&include_all_commits=true&count_private=true&layout=compact&theme=radical&hide_border=false&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="170px" width="270px"/>
+    </td>
+    <td>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="170px" width="270px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" height="170px" width="270px"/>
+    </td>
+  </tr>
+</table>
 
 
 --
