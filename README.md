@@ -60,12 +60,14 @@
 <p align="left">
   <img 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" 
-    width="42%" 
+    width="46%" 
   />
   &nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true" 
-    width="35%" 
+    width="46%" 
+    height="195px"
+    style="object-fit: cover;"
   />
 </p>
 
@@ -73,12 +75,12 @@
 <p align="left">
   <img 
     src="https://leetcard.jacoblin.cool/mohit_dhote465?theme=unicorn" 
-    width="42%" 
+    width="46%" 
   />
   &nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical&hide_border=true" 
-    width="42%" 
+    width="46%" 
   />
 </p>
 
