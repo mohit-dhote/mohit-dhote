@@ -66,7 +66,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true" 
     width="46%" 
-    height="175px"
+    height="170px"
     style="object-fit: cover;"
   />
 </p>
