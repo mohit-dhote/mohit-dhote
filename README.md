@@ -52,21 +52,36 @@
 
 
 
+ <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohit-dhote&show_icons=true&locale=en&theme=dark" alt="mohit-dhote" /></p>
+ -->
 <!--  GitHub Stats -->
 
 <h2 align="left"> 💻 GitHub Stats :</h2>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="170px" width="400px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical" height="170px" width="400px"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" 
+    width="40%" 
+  />
+  &nbsp;&nbsp;&nbsp;
+   <img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true" 
+  width="30%" 
+/>
+</p>
 
+<!--  GitHub Stats ends here -->
+
+<!-- LeetCode -->
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/mohit_dhote465?theme=unicorn" width="40%" />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical&hide_border=true" 
+    width="40%" 
+  />
+
+ <!-- ends -->
 
 <!-- My Contribution Graph -->
 
@@ -81,6 +96,7 @@
     src="https://raw.githubusercontent.com/mohit-dhote/mohit-dhote/output/github-contribution-grid-snake.svg" />
 </picture>   
 <!-- ends here -->
+
 
 <!-- Holopins -->
 
