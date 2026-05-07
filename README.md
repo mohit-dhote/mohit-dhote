@@ -70,7 +70,6 @@
     style="object-fit: cover;"
   />
 </p>
-
 <!-- LeetCode -->
 <p align="left">
   <img 
@@ -85,7 +84,6 @@
 </p>
 
 <!-- My Contribution Graph -->
-
 <h2 align="left">📊 My Contribution Graph</h2>
 
 <picture>
