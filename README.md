@@ -56,7 +56,6 @@
  -->
  
 <h2 align="left"> 💻 GitHub Stats :</h2>
-
 <p align="left">
   <img 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohit-dhote&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" 
@@ -64,12 +63,12 @@
   />
   &nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=mohit-dhote&theme=radical&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=151515&title_color=f2f2f2" 
     width="46%" 
-    height="165px"
-    style="object-fit: cover;"
+    height="195px"
   />
 </p>
+
 <!-- LeetCode -->
 <p align="left">
   <img 
