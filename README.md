@@ -74,13 +74,28 @@
   <img 
     src="https://leetcard.jacoblin.cool/mohit_dhote465?theme=unicorn" 
     width="46%" 
+    alt="LeetCode Stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="./github-streak.svg" 
+    width="46%" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<!-- LeetCode -- old 
+<p align="left">
+  <img 
+    src="https://leetcard.jacoblin.cool/mohit_dhote465?theme=unicorn" 
+    width="46%" 
   />
   &nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhote&theme=radical&hide_border=true" 
     width="46%" 
   />
-</p>
+</p> -->
 
 <!-- My Contribution Graph -->
 <h2 align="left">📊 My Contribution Graph</h2>
