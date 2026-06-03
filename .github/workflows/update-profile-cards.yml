@@ -1,0 +1,25 @@
+name: Fetch and Cache GitHub Streak Card
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Updates automatically every day at midnight UTC
+  workflow_dispatch: # Allows you to manually trigger it instantly
+
+jobs:
+  cache-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Download Latest Streak Card
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=mohit-dhote&theme=radical&hide_border=true" -o github-streak.svg
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-streak.svg
+          git diff-index --quiet HEAD || git commit -m "Automated update of cached streak card"
+          git push
